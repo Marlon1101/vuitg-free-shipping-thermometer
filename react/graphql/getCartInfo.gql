@@ -1,0 +1,9 @@
+{
+  orderForm{
+    totalizers{
+      id,
+      name,
+      value
+    }
+  }
+}
